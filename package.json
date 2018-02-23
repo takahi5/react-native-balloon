@@ -1,0 +1,14 @@
+{
+  "name": "react-native-balloon",
+  "version": "0.9.0",
+  "description": "Balloon component for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@takahi5",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
+}
