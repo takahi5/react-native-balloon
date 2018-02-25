@@ -1,10 +1,20 @@
 # react-native-balloon
 
+An UI component to draw balloons.  
 ![balloon_example](https://user-images.githubusercontent.com/7026785/36620231-6514b930-1935-11e8-84e2-79a25e44f25a.png)
+
+
+## Install
+
+```
+npm install react-native-balloon
+```
 
 ## Usage
 
 ```js
+import Balloon from "react-native-balloon";
+
 
 <Balloon
   borderColor="#2E86C1"
